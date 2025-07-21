@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anupshrestha2060https://github.com/anupshrestha2060/anupshrestha2060/tree/main
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning and reading BE.COMPUTER
 - 💞️ I’m looking to collaborate on Internship.
 - 📫 You can contact me on @anupshrestha865@gmail.com
 - 😄 Pronouns: ...
